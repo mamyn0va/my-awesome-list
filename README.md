@@ -5,10 +5,10 @@ List of awesome tools I use for dev or other
 - [deepin-wm](https://github.com/linuxdeepin/deepin-wm) is out-of-box window manager for people who care about design and that don't want to waste their time in configuration
 - [guake](http://guake.org/) is a top-down terminal
 - [fish](https://fishshell.com/) is a friendly interactive shell
-- [oh-my-fish](https://github.com/oh-my-fish/theme-bobthefish)
-- [fisherman](https://github.com/fisherman/fisherman)
-- [bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
-- [neolambda](https://github.com/ipatch/theme-neolambda)
+- [oh-my-fish](https://github.com/oh-my-fish/theme-bobthefish) is a framework for **fish**
+- [fisherman](https://github.com/fisherman/fisherman) is a **fish** plugin manager
+- [bobthefish](https://github.com/oh-my-fish/theme-bobthefish) is my favorite **fish** prompt
+- [neolambda](https://github.com/ipatch/theme-neolambda) is another cool prompt for **fish**
 - **colorman** a fish plugin which adds syntax highlighting for the man pages  (`omf install colorman`)
 - [grc](https://github.com/oh-my-fish/plugin-grc) that adds syntax highlighting for many Unix commands: **tail**, **ping**, **cat**, **ps**, **df**, ... (to install it: `fisher grc`)
 - [pj](https://github.com/oh-my-fish/plugin-pj) is a plugin to quickly switch from a project to another, whether it is in your terminal or in your editor (`omf install pj`)
@@ -32,3 +32,10 @@ List of awesome tools I use for dev or other
 - [atom](https://atom.io/) is a hackable text editor
 - [postman](https://www.getpostman.com/) is a graphical tool designed to test web APIs
 - [bat](https://github.com/sharkdp/bat) is a cat(1) clone with wings
+- [httpie](https://httpie.org/) is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more
+- [grunt](https://gruntjs.com/) the Javascript task runner
+- [swagger-cli](https://github.com/BigstickCarpet/swagger-cli) Swagger 2.0 and OpenAPI 3.0 command-line tool
+- [autojump](https://github.com/wting/autojump) A cd command that learns - easily navigate directories from the command line
+- [neovim](https://neovim.io/) literally the future of vim
+- [SpaceVim](https://spacevim.org/) A community-driven vim distribution
+- [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
