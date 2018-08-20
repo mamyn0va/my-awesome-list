@@ -39,3 +39,6 @@ List of awesome tools I use for dev or other
 - [neovim](https://neovim.io/) literally the future of vim
 - [SpaceVim](https://spacevim.org/) A community-driven vim distribution
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
+- [icdiff](https://www.jefftk.com/icdiff) Improved side-by-side colored diff
+- [mycli](https://github.com/dbcli/mycli) A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting
+- [neovim](https://neovim.io/) The future of vim, literally
