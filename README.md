@@ -36,8 +36,59 @@ List of awesome tools I use for dev or other
 - [grunt](https://gruntjs.com/) the Javascript task runner
 - [swagger-cli](https://github.com/BigstickCarpet/swagger-cli) Swagger 2.0 and OpenAPI 3.0 command-line tool
 - [autojump](https://github.com/wting/autojump) A cd command that learns - easily navigate directories from the command line
-- [neovim](https://neovim.io/) literally the future of vim
+- [neo](https://neovim.io/) literally the future of vim
 - [SpaceVim](https://spacevim.org/) A community-driven vim distribution
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
 - [icdiff](https://www.jefftk.com/icdiff) Improved side-by-side colored diff
 - [mycli](https://github.com/dbcli/mycli) A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting
+- nnn
+- duf
+- ncdu
+- direnv
+- wofi
+- rofi
+- polybar
+- i3
+- sway
+- bashtop
+- bpytop
+- starship
+- asciinema
+- autojump
+- beautysh
+- botsay
+- buddhasay
+- cowsay
+- cava
+- lnav
+- cloc
+- diff-so-fancy
+- dummyhttp
+- exa
+- fd
+- feh
+- fzf
+- gotop
+- howdoi
+- fx
+- hub
+- kitty
+- lazygit
+- lazydocker
+- most
+- neofetch
+- pcmanfm
+- polybar
+- ponysay
+- ripgrep
+- tmux
+- tmuxp
+- wavemon
+- waybar
+- wdisplays
+- pavucontrol
+- wob
+- yq
+- z
+- zathura
+- powerlevel10k
